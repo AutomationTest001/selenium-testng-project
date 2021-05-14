@@ -3,7 +3,6 @@ package com.selenium.pagobject;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import sun.jvm.hotspot.runtime.Thread;
 
 public class ListenersCode implements ITestListener {
 
