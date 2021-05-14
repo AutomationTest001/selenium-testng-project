@@ -20,7 +20,7 @@ import org.testng.annotations.AfterTest;
 public class CalulatorTestCase  {
 
 	Calculator c;
-	FixedDeposit fd;
+	FixedDeposit fd;   
 
 	@BeforeTest
 	public void beforeTest() throws Exception {
